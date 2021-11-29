@@ -1,7 +1,8 @@
 ini awal tester konten
 ini isi tester konten
-^ ini dibutuhkan 
-penting banget
+  ini gk penting
+   ini gk ush
+   ^bukan kewajiban
 ini penutup tester konten
 ini membuat tambahan konten
 ini membuat tambahan konten ke2
