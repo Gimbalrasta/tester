@@ -1,4 +1,4 @@
 hello ini cuma tester saja untuk belajar
 isi ini hanyalah sementara
 akan dihapus dalam waktu dekat
-membuat comit baru
+menghapus comit baru
